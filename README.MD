@@ -20,4 +20,4 @@ composer install
 ```
 ./vendor/bin/sail composer run dev
 ```
-Now you should be able to open link project link (127.0.0.1).
+Now you should be able to open project link (127.0.0.1).
